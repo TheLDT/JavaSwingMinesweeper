@@ -5,7 +5,7 @@
 
 ![Menu](./screenshots/menu.png "Menu")
 
-![Dark Mode](./screenshots/lightmode.png "Dark Mode")
+![Dark Mode](./screenshots/darkmode.png "Dark Mode")
 
 ![Light Mode](./screenshots/lightmode.png "Light Mode")
 
